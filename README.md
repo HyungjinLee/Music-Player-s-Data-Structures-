@@ -10,3 +10,10 @@ Implemented by C++ in order to get intuition to see data structures.
 
   Visual Studio 2015
   
+# Program Screen Shots
+
+![MusicList](./doc/screenshot/MusicList.JPG)
+뮤직 리스트
+
+![PLAYMUSIC](./doc/screenshot/PLAYMUSIC.JPG)
+뮤직 
